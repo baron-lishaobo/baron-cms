@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "V52MaLj7PtcBOjFtofvLU3KUGDI5fEW2ylWm+Z37YhY=",
+  "Source": "Cms.Web",
+  "BasePath": "_content/Cms.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Cms.Web\\wwwroot",
+      "Source": "Cms.Web",
+      "ContentRoot": "D:\\BaronGit\\baron-cms\\source\\Cms.Web\\wwwroot\\",
+      "BasePath": "_content/Cms.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BaronGit\\baron-cms\\source\\Cms.Web\\wwwroot\\.placeholder",
+      "SourceId": "Cms.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BaronGit\\baron-cms\\source\\Cms.Web\\wwwroot\\",
+      "BasePath": "_content/Cms.Web",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}
